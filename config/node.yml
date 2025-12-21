@@ -1,0 +1,9 @@
+nodes:
+  - id: os-1
+    role: AdaptiveOS
+  - id: dip-1
+    role: DIP
+  - id: ibcs-1
+    role: IBCS
+  - id: ai-1
+    role: AdaptiveAI

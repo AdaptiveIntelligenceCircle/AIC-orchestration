@@ -1,0 +1,8 @@
+mode: controlled
+rollback:
+  enabled: true
+  auto: false
+
+introspection:
+  required: true
+  timeout_ms: 2000
