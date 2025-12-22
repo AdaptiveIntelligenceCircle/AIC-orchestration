@@ -1,0 +1,8 @@
+mode: single-node
+introspection:
+  enabled: true
+rollback:
+  enabled: true
+  auto: false
+logging:
+  level: verbose

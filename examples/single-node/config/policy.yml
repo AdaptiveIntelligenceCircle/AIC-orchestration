@@ -1,0 +1,4 @@
+policies:
+  - id: excessive-adaptation
+    condition: adaptation_rate > threshold
+    action: trigger_rollback

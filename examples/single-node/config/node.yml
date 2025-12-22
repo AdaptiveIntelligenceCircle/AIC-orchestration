@@ -1,0 +1,9 @@
+nodes:
+  - id: local-os
+    role: AdaptiveOS
+  - id: local-dip
+    role: DIP
+  - id: local-ibcs
+    role: IBCS
+  - id: local-ai
+    role: AdaptiveAI
