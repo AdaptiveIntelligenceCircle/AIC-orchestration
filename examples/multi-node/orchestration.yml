@@ -1,0 +1,7 @@
+mode: multi-node
+policy:
+  isolate_on_violation: true
+consensus:
+  required: true
+logging:
+  cluster_trace: true
