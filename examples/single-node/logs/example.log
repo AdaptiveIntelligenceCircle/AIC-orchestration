@@ -1,0 +1,6 @@
+[DIP] event: driver_write
+[AI] adaptation proposed
+[IBCS] violation detected: excessive-adaptation
+[ORCH] rollback triggered
+[OS] restored stable state
+[AIC] System stabilized after rollback.
