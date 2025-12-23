@@ -2,6 +2,6 @@
 
 class RollbackEngine {
 public:
-    void rollback(/*NodeID node,
-                  const StateSnapshot& snapshot*/);
+    void rollback(NodeID node,
+                  const StateSnapshot& snapshot);
 };
