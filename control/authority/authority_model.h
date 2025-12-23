@@ -3,6 +3,7 @@ using namespace std;
 #include "../authority/trust_level.h"
 #include "../core/node_id.h"
 #include "../core/state_snapshot.h"
+#include "../enforcement/control_action.h"
 
 class AuthorityModel
 {
