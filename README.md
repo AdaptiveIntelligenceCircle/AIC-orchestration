@@ -1,6 +1,10 @@
 # AIC-orchestration
 The solution for running AIC through other devices/OS.
 
+-- 
+
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/50001413-ecb9-4605-a6b3-51f6842903c5" />
+
 ## Structure 
 ```pgsql
 
