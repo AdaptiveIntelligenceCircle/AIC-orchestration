@@ -2,7 +2,6 @@
 The solution for running AIC through other devices/OS.
 
 -- 
-![alt text](AIC-orchestration.png)
 
 ## Structure 
 ```pgsql
