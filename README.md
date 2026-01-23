@@ -3,6 +3,15 @@ The solution for running AIC through other devices/OS.
 
 -- 
 
+<p align="center">
+  <img src="assets/AIC - orchestration.png" alt="AIC Logo" width="1024" length = "1024"/>
+</p>
+
+<p align="center">
+  <strong> AIC orchestration </strong><br>
+  Decentralized nodes • Ethical scaling • Planetary readiness
+</p>
+
 ## Structure 
 ```pgsql
 
